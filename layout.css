@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+}
+
+.one{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    /* padding: 50px;  */
+    border: 20px solid blue;
+    /* margin: 50px; */
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.two{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(128, 0, 96);
+    /* padding: 50px;  */
+    border: 20px solid blue;
+    /* margin: 50px; */
+    box-sizing: border-box;
+    display: inline-block;
+}
+
